@@ -11,7 +11,7 @@ For more inner working understanding.. check out - https://www.mygreatlearning.c
  <br>
  
 # Algorithm 
-Haar Cascade Algorithm
+Voila Jones Algorithm ( Haar Cascade )
 <br>
 
 
