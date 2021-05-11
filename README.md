@@ -1,34 +1,22 @@
-# Stackoverflow Tag Prediction Facebook Recruiting III - Keyword Extraction
-This repository consist of code implementation for stackoverflow tag prediction held by Facebook for recruitments. Problem statement consist of mutli-label classification problem with business constraint for low latency model.
+# Real Time Face Detection using Opencv in Python
+This repository consist of code implementation for Real Time Face Detection using Opencv in Python. Video input will be taken from webcam and outputs the face detection on screen.
 <br>
-All the detail for the following are written in - https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction
+For more inner working understanding.. check out - https://www.mygreatlearning.com/blog/viola-jones-algorithm/
 <br>
 
 # Library
- -numpy
+ -os
  <br>
- -pandas
- <br>
- -matplotlib
- <br>
- -seaborn
- <br>
- -nltk
- <br>
- -sklearn
+ -opencv
  <br>
  
 # Algorithm 
-OnevsRest Logistic Regression
+Haar Cascade Algorithm
 <br>
 
-# Dataset
-Dataset for the same can be downloaded from the given link.<br>
-link - https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data
-<br>
 
 # Author
 Chirag Malaviya<br>
 
 # Reference
-Applied AI Case Study
+opencv python documentations
